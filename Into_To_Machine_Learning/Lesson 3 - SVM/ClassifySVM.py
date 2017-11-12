@@ -6,7 +6,7 @@ Created on Sat Nov 11 15:05:05 2017
 """
 
 def classify(features_train, labels_train):   
-    ### import the sklearn module for GaussianNB
+    ### import the sklearn module for Support Vector Machines
     ### create classifier
     ### fit the classifier on the training features and labels
     ### return the fit classifier
